@@ -1,2 +1,2 @@
-![Screen](https://github.com/mykolapryvalov/mykolapryvalov-/blob/main/screen/Screen.png)
+![screen](https://github.com/mykolapryvalov/mykolapryvalov-/blob/main/screen/screen.png)
 
